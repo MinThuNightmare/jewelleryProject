@@ -12,3 +12,19 @@ btnJs.addEventListener('click', ()=>{
 
     }
 });
+
+
+// Slick
+$('.responsive').slick({
+    dots: true,
+    infinite: false,
+    speed: 300,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+   
+  });
+
+// venobox
+$(document).ready(function(){
+    $('.venobox').venobox(); 
+});

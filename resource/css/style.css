@@ -4,7 +4,9 @@
     padding: 0; margin: 0;
     text-decoration: none;
 }
-
+.bb{
+    margin-bottom: 100px;
+}
 html{
     /* font-family: 'Pacifico', 'cursive'; */
     /* font-family: 'Noto Serif Myanmar', serif; */
@@ -55,3 +57,44 @@ html{
 .card{
     border: 0;
 }
+.img_cover_slick{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+}
+.dprice_p{
+    font-size: 24px;
+    color: #f57224;
+    font-weight: bolder;
+    margin-bottom: 7px;
+}
+.aa{
+    /* container-fulid-fix */
+    padding: 0 20px !important;
+}
+.bb{
+    /* background-color: black; */
+}
+.dprice_div{
+    padding: 20px;
+}
+
+.dprice_title{
+    font-size: 18px;
+    color: #555;
+    font-family: 'Noto Serif Myanmar', serif;
+}
+.pp{
+    padding: 0 !important;
+}
+.ppp{
+    padding-right: 0.1px !important;
+}
+.gcolor{
+    color: #555;
+}
+
