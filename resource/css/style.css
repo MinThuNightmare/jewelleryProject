@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Myanmar&family=Noto+Serif+Myanmar&display=swap');
+*{
+    padding: 0; margin: 0;
+    text-decoration: none;
+}
+
+html{
+    /* font-family: 'Pacifico', 'cursive'; */
+    /* font-family: 'Noto Serif Myanmar', serif; */
+    /* font-family: 'Noto Sans Myanmar', sans-serif; */
+}
+.btn_js{
+    border: 0;
+}
+.btn:focus{
+    outline: none;
+    box-shadow: none;
+}
+
+.logo_text{
+    font-family: 'Pacifico', 'cursive';
+    font-size: 14px;
+}
+.menu_ibox{
+    color: #fff;
+}
+.list_cover{
+    font-family: 'Noto Serif Myanmar', serif;
+}
+.list_a{
+    color:#fff;
+    font-size: 13px;
+}
+
+
+.hero_text{
+    font-family: 'Noto Sans Myanmar', sans-serif;
+    font-size: 16px;
+    color: #555;
+    line-height: 160%;
+}
+.hero_title{
+    font-family: 'Pacifico', 'cursive';
+}
+.jewe_price{
+    font-family: 'Noto Sans Myanmar', sans-serif;
+    color: #555;
+    font-size: 13px;
+    text-align: center;
+}
+.card-body{
+    padding: 7px 3px 8px 3px !important;
+}
+.card{
+    border: 0;
+}
